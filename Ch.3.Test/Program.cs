@@ -7,6 +7,7 @@ namespace Ch._3.Test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Test");
         }
     }
 }
